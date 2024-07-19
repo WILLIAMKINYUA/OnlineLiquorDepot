@@ -1,0 +1,13 @@
+section{
+    display: flex;
+    flex-direction: row;
+color: rgb(133, 55, 55);
+}
+.box{display: flex;
+    flex-direction: column;
+    margin-left: 4%;
+}  
+.logo{
+    color:brown;
+}
+

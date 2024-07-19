@@ -1,0 +1,31 @@
+.merf{
+    background-color: brown;
+    height:14vh;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    color:white;
+    
+}
+.titles{ margin-top: 2vh;
+text-decoration: underline;
+}
+.nav{
+    display: flex;
+    flex-direction: row; 
+    color: white;
+    margin-left:35vw ;
+    margin-top: 2%;
+    text-decoration: none;
+}
+.link{
+    color: white;
+    margin: 2%;
+    text-decoration: none;
+}
+.link:hover{
+    color: rgb(2, 2, 39);
+    margin: 2%;
+  text-decoration: none;
+}

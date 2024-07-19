@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}.huge{position: relative;
+    width: 100%;
+height: 100%;}
+.homevideobg{position: absolute;
+    right: 0;
+    left: 0%;
+    top:0%;
+    z-index: -1;
+    opacity: 89%;
+    }
+    .bgvideo{
+        width: 100%;
+        height: 60%;
+    }
+.themes{font-family: 'Cabin', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Skranji', cursive;
+color: white;
+font-size: 93px;
+}
+
+.btn{
+    color: white;
+    border-radius: 12px;
+    border-color:2px solid white;
+    background-color: brown;
+    cursor: pointer;
+    padding: 30px 54px;
+
+}
+.btn-btn{
+    color: white;
+    border-radius: 12px;
+    border-color:2px solid white;
+    background-color:transparent;
+    cursor: pointer;
+    margin-left: 0%;
+    padding: 10px 24px;
+
+}
+.btn-btn:hover{
+    color: white;
+    border-radius: 12px;
+    width: 4%;
+    border-color:2px solid white;
+    background-color: brown;
+    cursor: pointer;
+    
+
+}
+
+.btw{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

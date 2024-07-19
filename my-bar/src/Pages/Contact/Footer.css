@@ -1,0 +1,17 @@
+.foot{position: relative;}
+.footer{position: fixed;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    background-color: black;
+    height: 24vh;
+ color: gainsboro;}
+em{cursor:pointer;}
+em:hover{color: brown;
+    cursor:pointer;
+}
+.copy{
+    margin-left: 202px;
+    margin-top: 47px;
+    font-size: 26px;
+}

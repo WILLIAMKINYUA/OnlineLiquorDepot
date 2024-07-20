@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OnlineLiquorDepot/static/css/main.382da04b.css",
+    "main.js": "/OnlineLiquorDepot/static/js/main.b45f3018.js",
+    "static/media/4765779-hd_1920_1080_25fps.mp4": "/OnlineLiquorDepot/static/media/4765779-hd_1920_1080_25fps.989d2cd0051d5d47ab96.mp4",
+    "static/media/black lable.jpg": "/OnlineLiquorDepot/static/media/black lable.e8807b3b3e2abacff7f2.jpg",
+    "static/media/heineken.png": "/OnlineLiquorDepot/static/media/heineken.a3aaba5cec217b1f37e8.png",
+    "static/media/champagne.png": "/OnlineLiquorDepot/static/media/champagne.abf62ddb9ca670423f57.png",
+    "static/media/wine.png": "/OnlineLiquorDepot/static/media/wine.872a7ebffc1dc930eac8.png",
+    "static/media/cuvee.png": "/OnlineLiquorDepot/static/media/cuvee.7518b2da6a8884756457.png",
+    "static/media/remy.jpg": "/OnlineLiquorDepot/static/media/remy.c3e5b94d18b861b7b566.jpg",
+    "index.html": "/OnlineLiquorDepot/index.html",
+    "main.382da04b.css.map": "/OnlineLiquorDepot/static/css/main.382da04b.css.map",
+    "main.b45f3018.js.map": "/OnlineLiquorDepot/static/js/main.b45f3018.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382da04b.css",
+    "static/js/main.b45f3018.js"
+  ]
+}
